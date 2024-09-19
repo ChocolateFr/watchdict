@@ -180,5 +180,3 @@ class WatchDict(dict):
                 deserialized_dict[key] = value
         return deserialized_dict
 
-# Example usage:
-watch_dict = WatchDict(filename="my_state.json", log_level=logging.DEBUG, indent=2)
