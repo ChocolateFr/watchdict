@@ -26,6 +26,10 @@
 
  You don’t need to install `WatchDict` separately if you have the source code. Simply include the `WatchDict` class in your project or copy the code into your script.
 
+## Installation
+```zsh
+python -m pip install watchdict --break-system-packages
+```
  
 
  ## Usage
