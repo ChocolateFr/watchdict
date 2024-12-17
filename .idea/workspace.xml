@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a1e9e21-984a-4611-9295-d477398aff71" name="Changes" comment="Rewrite the whole search system." />
+    <list default="true" id="1a1e9e21-984a-4611-9295-d477398aff71" name="Changes" comment="Rewrite the whole search system.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/watchdict/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/watchdict/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/watchdict/watchdict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/watch_dict-0.1-py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/watch_dict-0.1.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch_dict.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch_dict.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch_dict.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watch_dict.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/watchdict/watchdict.py" beforeDir="false" afterPath="$PROJECT_DIR$/watchdict/watchdict.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +91,7 @@
       <updated>1734462323694</updated>
       <workItem from="1734462324891" duration="493000" />
       <workItem from="1734463162943" duration="2310000" />
-      <workItem from="1734465482850" duration="213000" />
+      <workItem from="1734465482850" duration="1241000" />
     </task>
     <servers />
   </component>
@@ -87,6 +100,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/watchdict$search.coverage" NAME="search Coverage Results" MODIFIED="1734463813263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/watchdict$app.coverage" NAME="app Coverage Results" MODIFIED="1734464253841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/watchdict$app.coverage" NAME="app Coverage Results" MODIFIED="1734466702562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

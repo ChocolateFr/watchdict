@@ -27,7 +27,7 @@
 
 
  ```bash
- pip install watch-dict 
+ pip install -U git+https://github.com/chocolatefr/watchdict 
  ```
 
 

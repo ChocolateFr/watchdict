@@ -2,7 +2,7 @@ import json
 import os
 import sys
 from typing import Any, Dict, SupportsIndex
-import search
+from . import search
 # Initialize the debug flag
 debug = True  # Set to True to enable logging, False to disable it
 

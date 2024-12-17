@@ -1,9 +1,0 @@
-README.md
-setup.py
-watch_dict.egg-info/PKG-INFO
-watch_dict.egg-info/SOURCES.txt
-watch_dict.egg-info/dependency_links.txt
-watch_dict.egg-info/top_level.txt
-watchdict/__init__.py
-watchdict/search.py
-watchdict/watchdict.py
